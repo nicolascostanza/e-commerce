@@ -1,10 +1,10 @@
 import '../navbar/NavBar.css'
 import React from 'react';
 
-function NavigationBar(props) {
+function NavigationBar() {
     return (
         <div className='nav'>
-            <a href="">
+            <a href="index.html">
                 <h1 className='logo'>Costanza</h1>
             </a>
             <ul>
